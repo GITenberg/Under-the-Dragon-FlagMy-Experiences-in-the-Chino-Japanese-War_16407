@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '6685'
     url: http://www.gutenberg.org/2009/agents/6685
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16407#Under-the-Dragon-FlagMy-Experiences-in-the-Chino-Japanese-War
 gutenberg_issued: '2005-08-01'
 gutenberg_type: Text
 identifiers:
