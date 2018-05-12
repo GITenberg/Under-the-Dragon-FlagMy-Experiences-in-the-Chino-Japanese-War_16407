@@ -1,0 +1,26 @@
+_repo: Under-the-Dragon-FlagMy-Experiences-in-the-Chino-Japanese-War_16407
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Allan, James
+    gutenberg_agent_id: '6685'
+    url: http://www.gutenberg.org/2009/agents/6685
+description: ''
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16407'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sino-Japanese War, 1894-1895'
+- !lcc 'DS'
+title: 'Under the Dragon Flag
+
+  My Experiences in the Chino-Japanese War'
+url: http://www.gutenberg.org/ebooks/16407
